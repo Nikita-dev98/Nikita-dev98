@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikita-dev98
+- 👋 Hi, I’m Nikita
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Python, web security and bash scripting
 - 💞️ I’m looking to collaborate on python and scripting
